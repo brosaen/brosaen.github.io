@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Brosaen Pistons Podcast</title>
+        <link href="http://brosaen.com"/>
+        <pubDate>Mon, 12 May 2014 00:00:00 +0000</pubDate>
+        <description>
+            A podcast discussing the Detroit Pistons.
+        </description>
+        <language>en-us</language>
+        <itunes:new-feed-url>http://brosaen.com/podcasts/pistons.xml</itunes:new-feed-url>
+        <itunes:subtitle>Brosaen Pistons Podcast</itunes:subtitle>
+        <itunes:author>Alex and Karl Rosaen</itunes:author>
+        <itunes:summary>
+            A couple of Michigan native Detroit Piston die hard fans discussing the Detroit Pistons.
+        </itunes:summary>
+        <itunes:image href="http://gr-podcast.s3.amazonaws.com/giantrobots-1400.jpg"/>
+        <itunes:keywords>sports, NBA, pistons</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:owner>
+            <itunes:name>Alex and Karl Rosaen</itunes:name>
+            <itunes:email></itunes:email>
+        </itunes:owner>
+        <itunes:category text="Technology">
+            <itunes:category text="Software How-To"/>
+        </itunes:category>
+        <item>
+            <title>1: A Joe Dumars Retrospective</title>
+            <link>http://podcasts.thoughtbot.com/giantrobots/98</link>
+            <guid>http://podcasts.thoughtbot.com/giantrobots/98</guid>
+            <pubDate>Mon, 12 May 2014 00:00:00 +0000</pubDate>
+            <author>thoughtbot</author>
+            <description>From RailsConf, Ben talks to Chris Hunt of Github about techniques for enhancing spacial memory, competitive personalities, the coffee infamy of the Pacific Northwest and Clojure testing.</description>
+            <enclosure url="http://podcasts.thoughtbot.com/giantrobots/98.mp3" length="23838388" type="audio/mpeg"/>
+            <duration>1191</duration>
+            <content:encoded>&lt;p&gt;From RailsConf, Ben talks to Chris Hunt of Github about techniques for enhancing spacial memory, competitive personalities, the coffee infamy of the Pacific Northwest and Clojure testing.&lt;/p&gt;&lt;ul&gt;
+                &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Dominic_O'Brien"&gt;Dominic O'Brien Bibliography&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.worldmemorychampionships.com/"&gt;World Memory Championships&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://twitter.com/chrishunt"&gt;Chris on Twitter&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            </content:encoded>
+            <itunes:author>thoughtbot</itunes:author>
+            <itunes:subtitle>From RailsConf, Ben talks to Chris Hunt of Github about techniques for enhancing spacial memory, competitive personalities, the coffee infamy of the Pacific Northwest and Clojure testing.</itunes:subtitle>
+            <itunes:summary>From RailsConf, Ben talks to Chris Hunt of Github about techniques for enhancing spacial memory, competitive personalities, the coffee infamy of the Pacific Northwest and Clojure testing.</itunes:summary>
+            <itunes:keywords>design, development, software</itunes:keywords>
+            <itunes:image href="http://gr-podcast.s3.amazonaws.com/giantrobots-1400.jpg"/>
+        </item>
+    </channel>
+</rss>
